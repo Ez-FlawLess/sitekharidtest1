@@ -330,6 +330,12 @@ div {
 
 @media only screen and (max-width: 1380px) {
   .first-pictures{
-    width: 690px;
+    width: 675px;
+  }
+  .first-left-div{
+    margin: 0;
+  }
+  .fisrt-right-pic{
+    margin: 0;
   }
 }
