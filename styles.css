@@ -247,21 +247,19 @@ div {
 }
 
 .sec-pic-1 {
-  margin-right: 10px;
+  margin: 0 10px;
 }
 
 .sec-pic-2 {
-  margin-left: 10px;
-  margin-right: 10px;
+  margin: 0 10px;
 }
 
 .sec-pic-3 {
-  margin-right: 10px;
-  margin-left: 10px;
+  margin: 0 10px;
 }
 
 .sec-pic-4 {
-  margin-left: 10px;
+  margin: 0 10px;
 }
 
 
